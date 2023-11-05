@@ -6,6 +6,7 @@ on:
       # - '.github/**'
       - 'README.md'
       - '.gitignore'
+      - 'markdown/**'
 
     branches:
       - main
